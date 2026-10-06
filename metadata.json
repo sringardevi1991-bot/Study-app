@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "All-in-one AI study assistant powered by Gemini for notes, quizzes, tutoring, study material analysis, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
